@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'raahee-hacktoberfest',
+    title: 'GitHub Workshop | @parasg1999',
     htmlAttrs: {
       lang: 'en'
     },
